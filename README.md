@@ -21,11 +21,26 @@
 
 ## 开源仓库
 
+### 行业开单记账产品矩阵（同一套架构，多行业落地）
+
+> uni-app 小程序 + Vue 3 后台 + Spring Boot 后端 + Docker Compose 部署，一套代码通过环境变量适配本地与云端。
+
+| 仓库 | 说明 | 行业场景 |
+|---|---|---|
+| [guozhangtong](https://github.com/zhoucijunGH/guozhangtong) | 果账通：水果收购开单记账 | 果产地收购 |
+| [chayetong](https://github.com/zhoucijunGH/chayetong) | 茶药通：茶/中药材收购开单记账 | 茶山 / 药市 |
+| [zhetangtong](https://github.com/zhoucijunGH/zhetangtong) | 蔗糖通：甘蔗收购开单记账（按吨计价、榨季结算） | 糖料蔗收购站 |
+| [nongzitong](https://github.com/zhoucijunGH/nongzitong) | 农资通：农资门店进销存记账（采购/库存/欠款/报表） | 乡镇农资店 |
+
+### 其他仓库
+
 | 仓库 | 说明 | 技术 |
 |---|---|---|
 | [portfolio](https://github.com/zhoucijunGH/portfolio) | 个人作品集站点：14 个案例，星野与铜鼓自绘动效、深浅色主题切换，无 UI 组件库依赖 | Vue 3 + TypeScript + Vite |
+| [yizhangtu](https://github.com/zhoucijunGH/yizhangtu) | 轻量行业一张图监管平台：地图一张图 + 告警中心 + 点位/图层/阈值可配置 | Vue 3 + ECharts + Spring Boot |
 | [farmland-one-map](https://github.com/zhoucijunGH/farmland-one-map) | 县域高标准农田「一张图」演示系统：地块与统计面板联动，数据为虚构示意 | Vue 3 + OpenLayers + ECharts |
 | [net-driver-miniapp](https://github.com/zhoucijunGH/net-driver-miniapp) | 净司机：网约车司机出车管家小程序，账单解析 + 净时薪核算 + 会员支付 | Taro 3 + Vue 3 + 微信云开发 |
+| [guibeicai](https://github.com/zhoucijunGH/guibeicai) | 桂备菜：餐饮备菜选品与采购预测系统，多租户 + Prophet 销量预测 | Python + Streamlit |
 
 在线作品集：https://zhoucijun-d2gete83h2f2bb329-1491685520.tcloudbaseapp.com/
 
